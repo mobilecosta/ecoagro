@@ -14,7 +14,9 @@ Entrevista Compras
 https://www.youtube.com/watch?v=y_ddjIa7ejg&authuser=0
 
 [exclusivo]
+
 server=ecoagro135190.protheus.cloudtotvs.com.br
+
 port=2014
 
 Ambiente=ci6wyq_dev
