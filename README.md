@@ -9,6 +9,18 @@ MIT 43
 
 https://docs.google.com/spreadsheets/d/1fFcP5WoiMYcjnWhbjdHqotqbXanwUd80A7FWoTQPVlA/edit#gid=1518682784
 
+Cronograma
+
+https://docs.google.com/spreadsheets/d/1MPg50VmFe78QHfoG_W8tdFhtXawRns8tieybUP1KzbY/edit#gid=798347594
+
 Entrevista Compras
 
 https://www.youtube.com/watch?v=y_ddjIa7ejg&authuser=0
+
+[exclusivo]
+
+server=ecoagro135190.protheus.cloudtotvs.com.br
+
+port=2014
+
+Ambiente=ci6wyq_dev
