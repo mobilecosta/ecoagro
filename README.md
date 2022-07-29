@@ -35,6 +35,8 @@ Levantamento Processo Financeiro – 28/04/2022 - https://youtu.be/TBTwovM5REk
 
 Levantamento Processo Financeiro – 28/04/2022 - https://youtu.be/Q4DlXH_GxDA
 
+Treinamento Compras - Washington - https://www.youtube.com/watch?v=YkBedrijfoc - 21/07/2022
+
 [exclusivo]
 
 server=ecoagro135190.protheus.cloudtotvs.com.br
