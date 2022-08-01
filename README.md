@@ -44,3 +44,7 @@ server=ecoagro135190.protheus.cloudtotvs.com.br
 port=2014
 
 Ambiente=ci6wyq_dev
+
+Login TCLOUD
+
+mobile.costa@gmail.com - 303351@Wag
