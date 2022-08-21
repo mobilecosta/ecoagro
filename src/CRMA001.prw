@@ -2,8 +2,6 @@
 
 User Function CRMA001()
 
-Private Titulo:= "Cadastro de Investidores"
-
-AxCadastro("ZZ8")
+AxCadastro("ZZ8", "Cadastro de Investidores")
 
 Return()
